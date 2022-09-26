@@ -1,0 +1,21 @@
+{
+  "name": "curso-asincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/challenge.js"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Héctor Santana hector.santana.gc@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "node": "^18.9.1",
+    "node-fetch": "^3.2.10",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module"
+}
